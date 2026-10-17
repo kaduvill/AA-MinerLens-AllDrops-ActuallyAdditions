@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "aaminerlensall",
+    "name": "AA Miner Lens - All Drops",
+    "description": "Adds JEI pages for all Lens of the Miner outputs, with loaded chances and beam range.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": ["kaduvill"],
+    "dependencies": ["actuallyadditions", "jei"]
+  }
+]

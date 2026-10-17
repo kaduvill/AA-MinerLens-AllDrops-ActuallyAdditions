@@ -13,7 +13,7 @@ final class MinerLensRecipeLayout {
     static final int OUTPUT_OFFSET = 2;
     static final int INFO_HEIGHT = 13;
     static final int FOOTER_HEIGHT = 13;
-    private static final int MAX_OUTPUT_ROWS = 4;
+    private static final int MAX_OUTPUT_ROWS = 5;
 
     final int pageSize;
     final int infoY;
